@@ -1,0 +1,25 @@
+echo "<script> console.log('$sql'); </script>";
+$2a$10$d1VjlUF16sLpeBXgdgRaEeHW82cLm6j5V9fOWxS/9YrTyE7aXp112
+
+Comments in code
+
+Tools
+- IO Builder (Unity / Allen Bradley)
+
+IO Navigation
+
+Previous/Next for tags
+
+Spare a tag
+
+(DONE) Remove completed when deleted
+
+Do not re-stamp completed if nothing has changed, see triggers
+
+(DONE) Change password
+
+(SEE datetimepicker.php) Date select for reporting
+
+(DONE) Fix sub-project for strings
+
+Tab Index Counter
